@@ -6,6 +6,8 @@ title: 'Challenge #2'
 teaser: Do another challenge with your host.
 difficulty: ""
 timelimit: 900
+lab_config:
+  default_layout_sidebar_size: 0
 ---
 More instructions 📖
 ==========

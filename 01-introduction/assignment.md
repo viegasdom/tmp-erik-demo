@@ -6,6 +6,8 @@ title: Intro challenge
 teaser: Get started with basic commands
 difficulty: ""
 timelimit: 900
+lab_config:
+  default_layout_sidebar_size: 0
 ---
 Environment Overview 📖
 ==========
