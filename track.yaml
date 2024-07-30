@@ -7,9 +7,9 @@ description: |2+
 icon: https://play.instruqt.com/assets/tracks/eeyfpmzwdknc/c7ba432ccb54c534df451dcecb1a8065/assets/landscape.jpeg
 tags: []
 owner: instruqt-demos
-developers: []
+developers:
+- bruno@instruqt.com
 instructors: []
-show_timer: true
 skipping_enabled: true
 idle_timeout: 300
 timelimit: 5400
@@ -23,4 +23,5 @@ lab_config:
   feedback_recap_enabled: true
   feedback_tab_enabled: false
   lab_v2: true
+  override_challenge_layout: false
   loadingMessages: true
